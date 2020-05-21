@@ -1,0 +1,37 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: 'Vollkorn', serif; /* this should be the rest of the output you got from Google fonts */
+  background-color: #9101D0;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #9101D0;
+  text-shadow: 3px 3px 1px black;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #c0f2f2;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, ul {
+  font-size: 24px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px; 
+}
